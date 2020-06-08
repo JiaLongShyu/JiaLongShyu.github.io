@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html
+- name: Resource for Feynman rules
+  link: /assets/A resource for signs and Feynman diagrams of the Standard Model.pdf
+- name: Step by Step Jekyll
+  link: https://jekyllrb.com/docs/step-by-step/01-setup/
+- name: Math Intensive Github Blog Construction
+  link: https://animadversio.github.io/tech_note/math-intensive-github-blog-construction
